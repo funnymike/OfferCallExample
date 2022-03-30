@@ -1,10 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:OfferI">
-   </FileRef>
-   <FileRef
-      location = "group:OfferII">
-   </FileRef>
+   <Group
+      location = "group:OfferI"
+      name = "OfferI">
+      <FileRef
+         location = "group:OfferI01.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI02.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI03.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI04.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI05.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI06.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI07.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI08.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI09.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI10.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI11.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI12.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI13.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI14.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI15.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI16.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI17.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI18.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI19.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI20.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI21.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI22.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI23.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI24.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI25.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI26.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI27.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI28.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI29.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI30.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI31.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI32.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI33.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI34.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI35.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI36.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI37.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI38.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI39.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI40.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI41.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI42.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI43.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI44.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI45.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI46.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI47.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI48.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI49.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI50.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI51.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI52.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI53.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI54.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI55.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI56.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI57.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI58.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI59.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferI60.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:OfferII"
+      name = "OfferII">
+      <FileRef
+         location = "group:OfferII01.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII02.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII03.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII04.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII05.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII06.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII07.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII08.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII09.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII10.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII11.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII12.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII13.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII14.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII15.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII16.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII17.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII18.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII19.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII20.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII21.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII22.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII23.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII24.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII25.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII26.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII27.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII28.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII29.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII30.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII31.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII32.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII33.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII34.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII35.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII36.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII37.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII38.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII39.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII40.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII41.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII42.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII43.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII44.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII45.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII46.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII47.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII48.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII49.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII50.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII51.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII52.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII53.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII54.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII55.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII56.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII57.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII58.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII59.playground">
+      </FileRef>
+      <FileRef
+         location = "group:OfferII60.playground">
+      </FileRef>
+   </Group>
 </Workspace>
